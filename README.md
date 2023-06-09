@@ -2,6 +2,8 @@
 
 Mystic Arts （圣女之条件 / 神秘精灵） 修正补丁
 
+主页与更新：https://github.com/SnDream/MysticArtsLauncher
+
 # 修订内容
 
 1. 使用dxwrapper的配置来规避大量图形的错误。
